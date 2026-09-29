@@ -4,8 +4,7 @@ Selected technical projects completed during my BSc in Electrical Engineering
 and Computer Science at ETH Zurich and my exchange semester at Purdue University.
 
 ## Bachelor Thesis
-### FPGA Enhancements in Speed, Memory, and Control for a
-High-Precision Arbitrary Waveform Generator in Quantum Experiments
+### FPGA Enhancements in Speed, Memory, and Control for a High-Precision Arbitrary Waveform Generator in Quantum Experiments
 
 Developed and extended an FPGA-based control architecture for a high-precision
 arbitrary waveform generator used in quantum experiments, focusing on memory
