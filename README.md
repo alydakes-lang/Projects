@@ -22,7 +22,8 @@ performance simulation.
 
 ## Serial Binary Multiplier
 
-Designed and analyzed a serial binary multiplier as part of a digital/VLSI
+Designed and analyzed a serial binary multiplier  using 45 nm NMOS technology in Cadence
+Virtuoso as part of a digital/VLSI
 design project.
 
 [View Report](./Serial_Binary_Multiplier.pdf)
